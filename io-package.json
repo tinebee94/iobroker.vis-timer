@@ -16,7 +16,7 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "Timer (JavaScript with VIS)",
+        "title": "Timer Widget für VIS",
         "titleLang": {
             "en": "Template (JavaScript with VIS)",
             "de": "Vorlage (JavaScript mit VIS)",
@@ -31,7 +31,7 @@
         },
         "desc": {
             "en": "Template for adapter development",
-            "de": "Vorlage für die Adapterentwicklung",
+            "de": "Visualisierung eines Timers",
             "ru": "Шаблон для разработки адаптера",
             "pt": "Modelo para desenvolvimento de adaptador",
             "nl": "Sjabloon voor ontwikkeling van adapters",
@@ -46,14 +46,14 @@
         ],
         "keywords": [
             "ioBroker",
-            "template",
-            "Smart Home",
-            "home automation"
+            "VIS",
+            "Timer",
+            "Countdown"
         ],
         "license": "MIT",
         "platform": "Javascript/Node.js",
         "main": "main.js",
-        "icon": "template.png",
+        "icon": "vis-timer.png",
         "enabled": true,
         "extIcon": "https://raw.githubusercontent.com/tinebee94/ioBroker.vis-timer/master/admin/vis-timer.png",
         "readme": "https://github.com/tinebee94/ioBroker.vis-timer/blob/master/README.md",
@@ -71,7 +71,7 @@
             "singleton": true,
             "name": {
                 "en": "Template (JavaScript with VIS)",
-                "de": "Vorlage (JavaScript mit VIS)",
+                "de": "Timer Widget für VIS",
                 "ru": "Шаблон (JavaScript с VIS)",
                 "pt": "Modelo (JavaScript com VIS)",
                 "nl": "Sjabloon (JavaScript met VIS)",
